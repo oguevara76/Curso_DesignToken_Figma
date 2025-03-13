@@ -1,0 +1,424 @@
+{
+  "hero": {
+    "title": {
+      "$type": "text",
+      "$value": "Aprende a diseñar e implementar Design Tokens"
+    },
+    "subtitle": {
+      "$type": "text",
+      "$value": "La mejor formación en español para que domines el diseño, distribución y aplicación de la metodología de Design Tokens. Iniciamos la 2ª edición el 10 de Marzo ¡No te quedes sin plaza!"
+    },
+    "button": {
+      "$type": "text",
+      "$value": "Ver sesiones →"
+    }
+  },
+  "intro": {
+    "title": {
+      "$type": "text",
+      "$value": "Por qué Design Tokens"
+    },
+    "subtitle": {
+      "p1": {
+        "$type": "text",
+        "$value": "Los Design Tokens se han establecido como la metodología por excelencia para comunicar las decisiones de diseño entre marcas, equipos y tecnologías. Su potencial se basa en la idea de crear una fuente de la verdad, una guía común desde la que se distribuyan todas las decisiones."
+      },
+      "p2": {
+        "$type": "text",
+        "$value": "Si te interesa optimizar los tiempos de desarrollo, la comunicación entre equipos o los sistemas de diseño en empresas en escala, este curso es para tí."
+      }
+    },
+    "button": {
+      "primary": {
+        "$type": "text",
+        "$value": "Ir a la formación →"
+      },
+      "secondary": {
+        "$type": "text",
+        "$value": "Leer más en substack"
+      }
+    }
+  },
+  "logos": {
+    "title": {
+      "$type": "text",
+      "$value": "Las grandes empresas ya trabajan con Design Tokens"
+    }
+  },
+  "sessions": {
+    "title": {
+      "$type": "text",
+      "$value": "Sesiones"
+    },
+    "tag": {
+      "one": {
+        "$type": "text",
+        "$value": "12 SESIONES EN DIRECTO"
+      },
+      "two": {
+        "$type": "text",
+        "$value": "24 HORAS"
+      },
+      "three": {
+        "$type": "text",
+        "$value": "6H PRÁCTICA GUIADA"
+      },
+      "four": {
+        "$type": "text",
+        "$value": "DIPLOMA FINAL"
+      },
+      "five": {
+        "$type": "text",
+        "$value": "ACCESO A LA COMUNIDAD"
+      }
+    },
+    "card": {
+      "one": {
+        "caption": {
+          "$type": "text",
+          "$value": "SESIÓN 1 - LUNES 10 DE MARZO"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "La fuente de la verdad"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Hablaremos del problema de comunicación entre los equipos de diseño y desarrollo y cómo los Design Tokens te ayudarán a mejorar el proceso, siendo la fuente de la verdad. Además de presentarnos y profundizar en lo que veremos durante el curso, mostraremos cómo es un flujo completo desde el diseño a la implementación."
+        }
+      },
+      "two": {
+        "caption": {
+          "$type": "text",
+          "$value": "SESIÓN 2 - MARTES 11 DE MARZO"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Arquitectura de Tokens"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Profundizarás en la teoría y buenas prácticas detrás de la implementación de Design Tokens. El objetivo será tener claros los principios y entender la toma de decisiones de su creación."
+        }
+      },
+      "three": {
+        "caption": {
+          "$type": "text",
+          "$value": "SESIÓN 3 - JUEVES 13 DE MARZO"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Sincronización con Github"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Aprenderás a sincronizar tus Design Tokens entre Figma y GitHub, asegurando que los estilos y componentes de tu aplicación estén siempre actualizados y alineados."
+        }
+      },
+      "four": {
+        "caption": {
+          "$type": "text",
+          "$value": "SESIÓN 4, 5, 6 - 17, 18, 20 DE MARZO"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Prácticas en Figma y Token Studio"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Entraremos a la práctica de tokenizar nuestra interfaz, entendiendo y profundizando en la creación de Design Tokens con las herramientas de Figma y Token Studio."
+        }
+      },
+      "five": {
+        "caption": {
+          "$type": "text",
+          "$value": "SESIÓN 7 - LUNES 24 DE MARZO"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Style Dictionary"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Descubrirás cómo utilizar Style Dictionary para gestionar tus Design Tokens a partir de una única fuente de la verdad. Veremos cómo configurarlo y alimentarlo desde los Tokens de Figma almacenados en Github."
+        }
+      },
+      "six": {
+        "caption": {
+          "$type": "text",
+          "$value": "SESIÓN 8 - MARTES 25 DE MARZO"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Transformadores"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "En esta sesión, aprenderás a usar transformadores en Style Dictionary para convertir y adaptar los Design Tokens a las diferentes necesidades de la plataforma."
+        }
+      },
+      "seven": {
+        "caption": {
+          "$type": "text",
+          "$value": "SESIÓN 9 - JUEVES 27 DE MARZO"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Formatos"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Verás cómo usar los formatos en Style Dictionary para definir la salida de los Design Tokens en diferentes lenguajes y plataformas (CSS, JavaScript, Swift, XML, etc.). Aprenderás a crear formatos personalizados que se adapten a las necesidades específicas de tu proyecto, permitiendo un flujo de trabajo más eficiente entre el diseño y el desarrollo."
+        }
+      },
+      "eight": {
+        "caption": {
+          "$type": "text",
+          "$value": "SESIÓN 10 - LUNES 31 DE MARZO"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Dark Mode"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Descubrirás el flujo completo para implementar el Dark Mode en proyectos utilizando Style Dictionary."
+        }
+      },
+      "nine": {
+        "caption": {
+          "$type": "text",
+          "$value": "SESIÓN 11 - MARTES 1 DE ABRIL"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Práctica de código"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Pondremos en práctica todo lo visto en las clases de transformadores y formatos, para que no te quede ninguna duda."
+        }
+      },
+      "ten": {
+        "caption": {
+          "$type": "text",
+          "$value": "SESIÓN 12 - JUEVES 3 DE ABRIL"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Presentaciones"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Será una oportunidad para compartir los temas con Design Tokens que se han desarrollado durante el curso, intercambiando ideas, mejoras y despedirnos."
+        }
+      }
+    }
+  },
+  "teachers": {
+    "one": {
+      "name": {
+        "$type": "text",
+        "$value": "Pablo Fernández Franco"
+      },
+      "position": {
+        "$type": "text",
+        "$value": "Platform Team Lead en idealista"
+      }
+    },
+    "two": {
+      "name": {
+        "$type": "text",
+        "$value": "Pablo Peribáñez Tafalla"
+      },
+      "position": {
+        "$type": "text",
+        "$value": "Design Systems en idealista"
+      }
+    },
+    "title": {
+      "$type": "text",
+      "$value": "Conoce a los profesores"
+    }
+  },
+  "pricing": {
+    "title": {
+      "$type": "text",
+      "$value": "Precios"
+    },
+    "card": {
+      "one": {
+        "caption": {
+          "$type": "text",
+          "$value": "NEWSLETTER"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Design Tokens en español"
+        },
+        "price": {
+          "$type": "text",
+          "$value": "GRATIS"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Suscríbete a nuestra newsletter para recibir píldoras y novedades sobre Design Tokens."
+        },
+        "button": {
+          "$type": "text",
+          "$value": "Suscribirme"
+        }
+      },
+      "two": {
+        "caption": {
+          "$type": "text",
+          "$value": "CURSO EN DIRECTO"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "Diseño e Implementación de Design Tokens"
+        },
+        "price-primary": {
+          "$type": "text",
+          "$value": "950€"
+        },
+        "price-secondary": {
+          "$type": "text",
+          "$value": ""
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Aprende el proceso de creación de Design Tokens desde la definición hasta la implementación en desarrollo."
+        },
+        "button": {
+          "$type": "text",
+          "$value": "¡ÚLTIMAS PLAZAS!"
+        }
+      },
+      "three": {
+        "caption": {
+          "$type": "text",
+          "$value": "ASESORÍA PRIVADA"
+        },
+        "title": {
+          "$type": "text",
+          "$value": "¿Quieres que te ayudemos en tu proyecto?"
+        },
+        "description": {
+          "$type": "text",
+          "$value": "Contáctanos para ayudarte de forma más personalizada en tu proyecto o empresa."
+        },
+        "button": {
+          "$type": "text",
+          "$value": "Contáctanos"
+        }
+      }
+    }
+  },
+  "video": {
+    "title": {
+      "$type": "text",
+      "$value": "Te contamos más en video"
+    }
+  },
+  "faqs": {
+    "one": {
+      "title": {
+        "$type": "text",
+        "$value": "¿Cuándo serán las clases?"
+      },
+      "description": {
+        "$type": "text",
+        "$value": "La 2ª edición empezará el lunes 10 de Marzo. Las clases serán los lunes, martes y jueves, siendo la última sesión el 3 de Abril. El formato será online en directo, empezando a las 18:30 hasta las 20:30 UTC+1 (horario Madrid)."
+      }
+    },
+    "two": {
+      "title": {
+        "$type": "text",
+        "$value": "¿Qué nivel de conocimientos necesito para el curso?"
+      },
+      "description": {
+        "$type": "text",
+        "$value": "El curso va dirigido a cualquier perfil involucrado en el desarrollo de productos digitales, desde diseñadores a desarrolladores y product managers que quieran conocer la metodología para mejorar la escalabilidad y comunicación entre equipos a través de los Design Tokens. Daremos por sentada mucha información básica, por lo que si tienes dudas tanto sobre si este curso es para tí, como si va a cubrir tus expectativas, por favor contáctanos por correo y te daremos más info."
+      }
+    },
+    "three": {
+      "title": {
+        "$type": "text",
+        "$value": "¿Necesito saber programar para el curso?"
+      },
+      "description": {
+        "$type": "text",
+        "$value": "No es necesario. Partiremos desde cero a la hora de enseñar cómo transformar y llevar a producción nuestros Design Tokens, por lo que no tendrás problemas de seguir las clases aunque nunca hayas programado."
+      }
+    },
+    "four": {
+      "title": {
+        "$type": "text",
+        "$value": "¿Se grabarán las clases?"
+      },
+      "description": {
+        "$type": "text",
+        "$value": "Sí, cada clase se grabará y se mantendrá disponible por un tiempo limitado, por si necesitas volver a verla o no has podido asistir."
+      }
+    },
+    "five": {
+      "title": {
+        "$type": "text",
+        "$value": "¿Podré resolver dudas tras el curso?"
+      },
+      "description": {
+        "$type": "text",
+        "$value": "Sí, tendrás acceso de por vida a la comunidad de alumnos, donde podrás preguntar dudas y mantenerte al día de las novedades en el mundillo tecnológico y de Design Tokens. Además, tendrás acceso a la Bitácora de contenido, donde actualizaremos referencias y añadiremos contenido extra continuamente."
+      }
+    },
+    "six": {
+      "title": {
+        "$type": "text",
+        "$value": "¿Habrá más ediciones?"
+      },
+      "description": {
+        "$type": "text",
+        "$value": "Sí. Próximamente anunciaremos las fechas de las siguientes ediciones. Puedes mantenerte al tanto siguiendo nuestra página de Linkedin."
+      }
+    },
+    "title": {
+      "$type": "text",
+      "$value": "Preguntas frecuentes"
+    }
+  },
+  "footer": {
+    "copyright": {
+      "$type": "text",
+      "$value": "Design Tokens en Español © 2024 Todos los derechos reservados."
+    },
+    "link": {
+      "privacy": {
+        "$type": "text",
+        "$value": "Política de Privacidad"
+      },
+      "mail": {
+        "$type": "text",
+        "$value": "hola@designtokens.es"
+      },
+      "linkedin": {
+        "$type": "text",
+        "$value": "Linkedin"
+      },
+      "substack": {
+        "$type": "text",
+        "$value": "Substack"
+      }
+    }
+  },
+  "language": {
+    "es": {
+      "$type": "text",
+      "$value": "Español"
+    },
+    "en": {
+      "$type": "text",
+      "$value": "English"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "palette",
+    "viewport/typography_desktop",
+    "viewport/typography_mobile",
+    "mode/light",
+    "mode/dark",
+    "comp/button/color",
+    "comp/button/global",
+    "copies/es",
+    "copies/en"
+  ]
+}
