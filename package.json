@@ -18,7 +18,8 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-lite-youtube-embed": "^2.4.0",
-    "react-router": "^7.1.1"
+    "react-router": "^7.1.1",
+    "sd-themes-loader": "^1.0.1"
   },
   "devDependencies": {
     "@netlify/vite-plugin-react-router": "^1.0.0",
@@ -31,7 +32,7 @@
     "cross-env": "^7.0.3",
     "postcss": "^8.4.49",
     "sass-embedded": "^1.83.1",
-    "style-dictionary": "^4.1.2",
+    "style-dictionary": "^4.3.3",
     "tailwindcss": "^3.4.16",
     "typescript": "^5.7.2",
     "vite": "^5.4.11",
