@@ -38,6 +38,7 @@ async function run() {
         }
     };
 
+    
     globalThemes.addConfig(config).build();
 }
 
