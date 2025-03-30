@@ -2,11 +2,11 @@
   "hero": {
     "title": {
       "$type": "text",
-      "$value": "Aprende a diseñar e implementar Design Tokens"
+      "$value": "Conviértete en un maestro del sushi desde casa"
     },
     "subtitle": {
       "$type": "text",
-      "$value": "La mejor formación en español para que domines el diseño, distribución y aplicación de la metodología de Design Tokens. Iniciamos la 2ª edición el 10 de Marzo ¡No te quedes sin plaza!"
+      "$value": "Descubre los secretos de la gastronomía japonesa con nuestro curso especializado. Aprende desde los fundamentos hasta técnicas avanzadas para preparar sushi como un verdadero chef."
     },
     "button": {
       "$type": "text",
@@ -16,16 +16,16 @@
   "intro": {
     "title": {
       "$type": "text",
-      "$value": "Por qué Design Tokens"
+      "$value": "Por qué Boru Boru"
     },
     "subtitle": {
       "p1": {
         "$type": "text",
-        "$value": "Los Design Tokens se han establecido como la metodología por excelencia para comunicar las decisiones de diseño entre marcas, equipos y tecnologías. Su potencial se basa en la idea de crear una fuente de la verdad, una guía común desde la que se distribuyan todas las decisiones."
+        "$value": "Sumérgete en el arte milenario del sushi y aprende a dominar cada detalle, desde la selección del arroz hasta la presentación final. En este curso, te guiaremos paso a paso para que puedas crear deliciosas piezas con ingredientes frescos y técnicas tradicionales."
       },
       "p2": {
         "$type": "text",
-        "$value": "Si te interesa optimizar los tiempos de desarrollo, la comunicación entre equipos o los sistemas de diseño en empresas en escala, este curso es para tí."
+        "$value": "No importa si eres principiante o tienes experiencia en la cocina, este curso está diseñado para que cualquier amante de la gastronomía japonesa pueda disfrutar y aprender."
       }
     },
     "button": {
@@ -48,7 +48,7 @@
   "sessions": {
     "title": {
       "$type": "text",
-      "$value": "Sesiones"
+      "$value": "Lo que veremos..."
     },
     "tag": {
       "one": {
@@ -69,7 +69,7 @@
       },
       "five": {
         "$type": "text",
-        "$value": "ACCESO A LA COMUNIDAD"
+        "$value": "DESCUENTOS EN PRODUCTOS"
       }
     },
     "card": {
@@ -80,11 +80,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "La fuente de la verdad"
+          "$value": "Historia y cultura del sushi"
         },
         "description": {
           "$type": "text",
-          "$value": "Hablaremos del problema de comunicación entre los equipos de diseño y desarrollo y cómo los Design Tokens te ayudarán a mejorar el proceso, siendo la fuente de la verdad. Además de presentarnos y profundizar en lo que veremos durante el curso, mostraremos cómo es un flujo completo desde el diseño a la implementación."
+          "$value": "Conoce los orígenes de este icónico plato japonés y su evolución a lo largo del tiempo. Descubrirás cómo el sushi pasó de ser un método de conservación del pescado a convertirse en una de las preparaciones más refinadas del mundo culinario."
         }
       },
       "two": {
@@ -94,11 +94,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Arquitectura de Tokens"
+          "$value": "Utensilios y equipos esenciales"
         },
         "description": {
           "$type": "text",
-          "$value": "Profundizarás en la teoría y buenas prácticas detrás de la implementación de Design Tokens. El objetivo será tener claros los principios y entender la toma de decisiones de su creación."
+          "$value": "Descubre qué herramientas necesitas y cómo usarlas correctamente. Desde cuchillos japoneses hasta esterillas de bambú, te enseñaremos a seleccionar y utilizar cada utensilio para optimizar tu experiencia en la cocina."
         }
       },
       "three": {
@@ -108,11 +108,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Sincronización con Github"
+          "$value": "Selección y preparación del arroz"
         },
         "description": {
           "$type": "text",
-          "$value": "Aprenderás a sincronizar tus Design Tokens entre Figma y GitHub, asegurando que los estilos y componentes de tu aplicación estén siempre actualizados y alineados."
+          "$value": "Aprende a cocinar y sazonar el arroz perfecto, la base fundamental del sushi. Conocerás los secretos para lograr la textura adecuada y el equilibrio perfecto entre vinagre, azúcar y sal."
         }
       },
       "four": {
@@ -122,11 +122,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Prácticas en Figma y Token Studio"
+          "$value": "Tipos de pescados y mariscos"
         },
         "description": {
           "$type": "text",
-          "$value": "Entraremos a la práctica de tokenizar nuestra interfaz, entendiendo y profundizando en la creación de Design Tokens con las herramientas de Figma y Token Studio."
+          "$value": "Identifica las mejores opciones de pescado y cómo prepararlas para sushi. Aprenderás a elegir ingredientes frescos, técnicas de fileteado y métodos de conservación para garantizar la mejor calidad en cada bocado."
         }
       },
       "five": {
@@ -136,11 +136,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Style Dictionary"
+          "$value": "Corte y manipulación de ingredientes"
         },
         "description": {
           "$type": "text",
-          "$value": "Descubrirás cómo utilizar Style Dictionary para gestionar tus Design Tokens a partir de una única fuente de la verdad. Veremos cómo configurarlo y alimentarlo desde los Tokens de Figma almacenados en Github."
+          "$value": "Domina las técnicas de corte para obtener las mejores texturas y presentaciones. Desde cortes precisos de pescado hasta la preparación de vegetales, te enseñaremos a manejar los ingredientes con destreza y seguridad."
         }
       },
       "six": {
@@ -150,11 +150,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Transformadores"
+          "$value": "Makis y rolls: técnicas básicas"
         },
         "description": {
           "$type": "text",
-          "$value": "En esta sesión, aprenderás a usar transformadores en Style Dictionary para convertir y adaptar los Design Tokens a las diferentes necesidades de la plataforma."
+          "$value": "Aprende a enrollar sushi correctamente y a combinar ingredientes de forma equilibrada. Desde el clásico California roll hasta opciones más innovadoras, desarrollarás habilidades esenciales para dominar el arte del maki."
         }
       },
       "seven": {
@@ -164,11 +164,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Formatos"
+          "$value": "Nigiri y sashimi: precisión y arte"
         },
         "description": {
           "$type": "text",
-          "$value": "Verás cómo usar los formatos en Style Dictionary para definir la salida de los Design Tokens en diferentes lenguajes y plataformas (CSS, JavaScript, Swift, XML, etc.). Aprenderás a crear formatos personalizados que se adapten a las necesidades específicas de tu proyecto, permitiendo un flujo de trabajo más eficiente entre el diseño y el desarrollo."
+          "$value": "Descubre la delicadeza y técnica detrás del nigiri y el sashimi. Te enseñaremos a moldear nigiris con la cantidad justa de arroz y a cortar sashimis con precisión para resaltar el sabor y la textura del pescado."
         }
       },
       "eight": {
@@ -178,11 +178,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Dark Mode"
+          "$value": "Salsas y acompañamientos"
         },
         "description": {
           "$type": "text",
-          "$value": "Descubrirás el flujo completo para implementar el Dark Mode en proyectos utilizando Style Dictionary."
+          "$value": "Prepara las salsas tradicionales y los acompañamientos ideales para realzar cada bocado. Desde la salsa de soja y el wasabi hasta aderezos más sofisticados, lograrás darle un toque especial a tus creaciones."
         }
       },
       "nine": {
@@ -192,11 +192,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Práctica de código"
+          "$value": "Presentación y emplatado"
         },
         "description": {
           "$type": "text",
-          "$value": "Pondremos en práctica todo lo visto en las clases de transformadores y formatos, para que no te quede ninguna duda."
+          "$value": "Diseña platos atractivos y dignos de un restaurante japonés. Aprenderás técnicas de disposición de piezas, combinación de colores y uso de decoraciones para que tu sushi luzca tan bien como sabe."
         }
       },
       "ten": {
@@ -206,11 +206,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Presentaciones"
+          "$value": "Consejos y trucos de expertos"
         },
         "description": {
           "$type": "text",
-          "$value": "Será una oportunidad para compartir los temas con Design Tokens que se han desarrollado durante el curso, intercambiando ideas, mejoras y despedirnos."
+          "$value": "Aprende secretos de chefs profesionales para perfeccionar tu técnica. Descubre cómo mejorar la textura del arroz, potenciar el sabor de los ingredientes y evitar errores comunes en la preparación del sushi."
         }
       }
     }
@@ -219,21 +219,21 @@
     "one": {
       "name": {
         "$type": "text",
-        "$value": "Pablo Fernández Franco"
+        "$value": "Hiroshi Tanaka"
       },
       "position": {
         "$type": "text",
-        "$value": "Platform Team Lead en idealista"
+        "$value": "Chef especialista en cocina japonesa"
       }
     },
     "two": {
       "name": {
         "$type": "text",
-        "$value": "Pablo Peribáñez Tafalla"
+        "$value": "Marina López"
       },
       "position": {
         "$type": "text",
-        "$value": "Design Systems en idealista"
+        "$value": "Experta en cocina fusión y sushi creativo"
       }
     },
     "title": {
@@ -254,7 +254,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Design Tokens en español"
+          "$value": "Consejos, trucos y eventos"
         },
         "price": {
           "$type": "text",
@@ -262,7 +262,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Suscríbete a nuestra newsletter para recibir píldoras y novedades sobre Design Tokens."
+          "$value": "Suscríbete a nuestra newsletter para recibir píldoras y novedades sobre la elaboración de sushi."
         },
         "button": {
           "$type": "text",
@@ -276,7 +276,7 @@
         },
         "title": {
           "$type": "text",
-          "$value": "Diseño e Implementación de Design Tokens"
+          "$value": "¡Empieza a crear tus obras maestras de sushi!"
         },
         "price-primary": {
           "$type": "text",
@@ -288,7 +288,7 @@
         },
         "description": {
           "$type": "text",
-          "$value": "Aprende el proceso de creación de Design Tokens desde la definición hasta la implementación en desarrollo."
+          "$value": "Aprende el proceso de elaborar sushi desde el principio, no necesitas conocimientos de cocina anteriores y todos los materiales están incluidos."
         },
         "button": {
           "$type": "text",
@@ -302,11 +302,11 @@
         },
         "title": {
           "$type": "text",
-          "$value": "¿Quieres que te ayudemos en tu proyecto?"
+          "$value": "Cursos grupales o para empresas"
         },
         "description": {
           "$type": "text",
-          "$value": "Contáctanos para ayudarte de forma más personalizada en tu proyecto o empresa."
+          "$value": "Contáctanos para ayudarte de forma más personalizada en tu idea o evento."
         },
         "button": {
           "$type": "text",
@@ -325,61 +325,61 @@
     "one": {
       "title": {
         "$type": "text",
-        "$value": "¿Cuándo serán las clases?"
+        "$value": "¿Necesito experiencia previa en cocina para tomar el curso?"
       },
       "description": {
         "$type": "text",
-        "$value": "La 2ª edición empezará el lunes 10 de Marzo. Las clases serán los lunes, martes y jueves, siendo la última sesión el 3 de Abril. El formato será online en directo, empezando a las 18:30 hasta las 20:30 UTC+1 (horario Madrid)."
+        "$value": "No, el curso está diseñado para todos los niveles, desde principiantes hasta cocineros con experiencia."
       }
     },
     "two": {
       "title": {
         "$type": "text",
-        "$value": "¿Qué nivel de conocimientos necesito para el curso?"
+        "$value": "¿Qué materiales necesito para empezar?"
       },
       "description": {
         "$type": "text",
-        "$value": "El curso va dirigido a cualquier perfil involucrado en el desarrollo de productos digitales, desde diseñadores a desarrolladores y product managers que quieran conocer la metodología para mejorar la escalabilidad y comunicación entre equipos a través de los Design Tokens. Daremos por sentada mucha información básica, por lo que si tienes dudas tanto sobre si este curso es para tí, como si va a cubrir tus expectativas, por favor contáctanos por correo y te daremos más info."
+        "$value": "Solo necesitas algunos utensilios básicos como cuchillo afilado, esterilla de bambú, arroz para sushi y los ingredientes de cada receta."
       }
     },
     "three": {
       "title": {
         "$type": "text",
-        "$value": "¿Necesito saber programar para el curso?"
+        "$value": "¿Recibiré un certificado al finalizar el curso?"
       },
       "description": {
         "$type": "text",
-        "$value": "No es necesario. Partiremos desde cero a la hora de enseñar cómo transformar y llevar a producción nuestros Design Tokens, por lo que no tendrás problemas de seguir las clases aunque nunca hayas programado."
+        "$value": "Sí, al completar todas las lecciones y ejercicios recibirás un certificado de participación."
       }
     },
     "four": {
       "title": {
         "$type": "text",
-        "$value": "¿Se grabarán las clases?"
+        "$value": "¿Puedo acceder al curso en cualquier momento?"
       },
       "description": {
         "$type": "text",
-        "$value": "Sí, cada clase se grabará y se mantendrá disponible por un tiempo limitado, por si necesitas volver a verla o no has podido asistir."
+        "$value": "Sí, el curso es 100% online y puedes verlo a tu propio ritmo."
       }
     },
     "five": {
       "title": {
         "$type": "text",
-        "$value": "¿Podré resolver dudas tras el curso?"
+        "$value": "¿Hay soporte en caso de dudas?"
       },
       "description": {
         "$type": "text",
-        "$value": "Sí, tendrás acceso de por vida a la comunidad de alumnos, donde podrás preguntar dudas y mantenerte al día de las novedades en el mundillo tecnológico y de Design Tokens. Además, tendrás acceso a la Bitácora de contenido, donde actualizaremos referencias y añadiremos contenido extra continuamente."
+        "$value": "Sí, contamos con un foro donde podrás hacer preguntas y recibir respuestas de nuestros profesores."
       }
     },
     "six": {
       "title": {
         "$type": "text",
-        "$value": "¿Habrá más ediciones?"
+        "$value": "¿Puedo hacer el curso si soy vegetariano?"
       },
       "description": {
         "$type": "text",
-        "$value": "Sí. Próximamente anunciaremos las fechas de las siguientes ediciones. Puedes mantenerte al tanto siguiendo nuestra página de Linkedin."
+        "$value": "¡Por supuesto! Incluimos opciones de sushi vegetariano y vegano en el temario."
       }
     },
     "title": {
@@ -390,7 +390,7 @@
   "footer": {
     "copyright": {
       "$type": "text",
-      "$value": "Design Tokens en Español © 2024 Todos los derechos reservados."
+      "$value": "Curso de sushi en Español - Boru Boru © 2024 Todos los derechos reservados."
     },
     "link": {
       "privacy": {
@@ -399,7 +399,7 @@
       },
       "mail": {
         "$type": "text",
-        "$value": "hola@designtokens.es"
+        "$value": "hola@boruboru.es"
       },
       "linkedin": {
         "$type": "text",
