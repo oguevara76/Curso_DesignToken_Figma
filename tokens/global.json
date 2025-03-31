@@ -146,7 +146,7 @@
   "fontFamily": {
     "primary": {
       "$type": "fontFamilies",
-      "$value": "Space Grotesk"
+      "$value": "Noto Sans JP"
     },
     "secondary": {
       "$type": "fontFamilies",

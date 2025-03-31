@@ -16,7 +16,7 @@
   "intro": {
     "title": {
       "$type": "text",
-      "$value": "Por qué Boru Boru"
+      "$value": "Por qué Bōru"
     },
     "subtitle": {
       "p1": {
@@ -42,7 +42,7 @@
   "logos": {
     "title": {
       "$type": "text",
-      "$value": "Las grandes empresas ya trabajan con Design Tokens"
+      "$value": "Empresas que nos han tomado como referencia para sus eventos de team building."
     }
   },
   "sessions": {
@@ -390,7 +390,7 @@
   "footer": {
     "copyright": {
       "$type": "text",
-      "$value": "Curso de sushi en Español - Boru Boru © 2024 Todos los derechos reservados."
+      "$value": "Curso de sushi en Español - Bōru © 2024 Todos los derechos reservados."
     },
     "link": {
       "privacy": {
