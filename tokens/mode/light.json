@@ -89,7 +89,7 @@
     "header": {
       "logo": {
         "$type": "asset",
-        "$value": "logo-designtokens-es-light.svg"
+        "$value": "logo-boru-light.svg"
       }
     },
     "button": {
