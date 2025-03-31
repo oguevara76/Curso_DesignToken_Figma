@@ -2,7 +2,7 @@
   "hero": {
     "title": {
       "$type": "text",
-      "$value": "Conviértete en un maestro del sushi desde casa"
+      "$value": "Conviértete en un maestro del sushi en casa"
     },
     "subtitle": {
       "$type": "text",
