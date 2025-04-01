@@ -205,11 +205,11 @@
     "language": {
       "es": {
         "$type": "asset",
-        "$value": "spanish.svg"
+        "$value": "language-es.svg"
       },
       "en": {
         "$type": "asset",
-        "$value": "english.svg"
+        "$value": "language-en.svg"
       }
     }
   }
