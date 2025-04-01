@@ -83,7 +83,7 @@
     "intro": {
       "right": {
         "$type": "asset",
-        "$value": "galaxy-light.svg"
+        "$value": "sushi-light.svg"
       }
     },
     "header": {

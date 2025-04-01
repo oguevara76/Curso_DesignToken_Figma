@@ -83,13 +83,13 @@
     "intro": {
       "right": {
         "$type": "asset",
-        "$value": "galaxy-dark.svg"
+        "$value": "sushi-dark.svg"
       }
     },
     "header": {
       "logo": {
         "$type": "asset",
-        "$value": "logo-designtokens-es-dark.svg"
+        "$value": "logo-boru-dark.svg"
       }
     },
     "button": {
