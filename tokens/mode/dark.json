@@ -101,7 +101,7 @@
     "footer": {
       "logo": {
         "$type": "asset",
-        "$value": "logo-designtokens-es-black.svg"
+        "$value": "logo-boru-black.svg"
       }
     },
     "logos": {
