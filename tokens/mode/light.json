@@ -83,13 +83,13 @@
     "intro": {
       "right": {
         "$type": "asset",
-        "$value": "galaxy-light.svg"
+        "$value": "sushi-light.svg"
       }
     },
     "header": {
       "logo": {
         "$type": "asset",
-        "$value": "logo-designtokens-es-light.svg"
+        "$value": "logo-boru-light.svg"
       }
     },
     "button": {
@@ -101,7 +101,7 @@
     "footer": {
       "logo": {
         "$type": "asset",
-        "$value": "logo-designtokens-es-white.svg"
+        "$value": "logo-boru-white.svg"
       }
     },
     "logos": {
@@ -205,11 +205,11 @@
     "language": {
       "es": {
         "$type": "asset",
-        "$value": "spanish.svg"
+        "$value": "language-es.svg"
       },
       "en": {
         "$type": "asset",
-        "$value": "english.svg"
+        "$value": "language-en.svg"
       }
     }
   }

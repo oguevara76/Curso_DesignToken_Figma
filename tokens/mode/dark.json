@@ -83,13 +83,13 @@
     "intro": {
       "right": {
         "$type": "asset",
-        "$value": "galaxy-dark.svg"
+        "$value": "sushi-dark.svg"
       }
     },
     "header": {
       "logo": {
         "$type": "asset",
-        "$value": "logo-designtokens-es-dark.svg"
+        "$value": "logo-boru-dark.svg"
       }
     },
     "button": {
@@ -101,7 +101,7 @@
     "footer": {
       "logo": {
         "$type": "asset",
-        "$value": "logo-designtokens-es-black.svg"
+        "$value": "logo-boru-black.svg"
       }
     },
     "logos": {
@@ -205,11 +205,11 @@
     "language": {
       "es": {
         "$type": "asset",
-        "$value": "spanish.svg"
+        "$value": "language-es.svg"
       },
       "en": {
         "$type": "asset",
-        "$value": "english.svg"
+        "$value": "language-en.svg"
       }
     }
   }
